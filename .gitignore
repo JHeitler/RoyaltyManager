@@ -61,3 +61,14 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# idea files
+.idea/
+
+# Gradle
+gradle/
+
+# Maven stuff
+.mvn/
+
+.gitignore
